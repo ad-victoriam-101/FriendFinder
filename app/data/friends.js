@@ -22,3 +22,4 @@ x.forEach(i => {
 console.log(difference);
 var final = difference.reduce((a, b) => a + b, 0);
 console.log(final);
+module.exports = Profile
