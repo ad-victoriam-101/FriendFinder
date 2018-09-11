@@ -42,3 +42,10 @@ console.log(Profile);
 app.listen(PORT, function() {
   console.log("App listening on PORT: " + PORT);
 });
+
+// due to time constraints have to sudo code the rest
+// after getting the pages to talk to each other use the user form data to populate a new Profile Constructor, 
+// I wanted to auto fill the radio buttons for the questions. 
+// after the user data is returned take the user score and compare it to the scores on file. 
+// find the totall ammount diff and compare the numbers to find the smallest one. 
+// after finding the profile that has the scores closest to the user, using a Modal display to the user the profile of the winner. 
